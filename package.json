@@ -1,0 +1,25 @@
+{
+  "name": "proyecto_incial",
+  "version": "0.0.1",
+  "description": "Test node for sesion 1",
+  "main": "sample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pavire18/NodeS1_Intro.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Pablo Villarino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pavire18/NodeS1_Intro/issues"
+  },
+  "homepage": "https://github.com/Pavire18/NodeS1_Intro#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
